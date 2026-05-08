@@ -80,4 +80,4 @@ app.post('/', authenticate, async (req, res) => {
     }
 });
 
-app.listen(3002, () => console.log('Order Service berjalan di port 3002'));
+app.listen(3924, () => console.log('Order Service berjalan di port 3924'));
