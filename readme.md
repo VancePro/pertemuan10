@@ -3,9 +3,9 @@
 Platform backend berbasis Microservices untuk mengelola sistem pemesanan di kedai Kopi Bahagia.
 
 ## Arsitektur Sistem
-- **API Gateway (Port 3000):** 
-- **Auth Service (Port 3001):** 
-- **Order Service (Port 3002):** 
+- **API Gateway (Port 3022):** 
+- **Auth Service (Port 3023):** 
+- **Order Service (Port 3024):** 
 - **Barista Consumer (RabbitMQ)**
 
 ## Menjalankan Service di Server
