@@ -18,5 +18,5 @@ npx pm2 start auth-service.js --name "kopi-auth"
 npx pm2 start order-service.js --name "kopi-order"
 npx pm2 start consumer.js --name "kopi-message"
 
-## Melihat log dari background worker (Message Broker)
-npx pm2 logs kopi-barista
+## Message Broker
+npx pm2 logs kopi-message
